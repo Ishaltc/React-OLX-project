@@ -2,7 +2,7 @@ import React from 'react';
 
 import Signup from '../Components/Signup/Signup';
 
-function SignupPage() {
+ function  SignupPage (){
   return (
     <div>
       <Signup />
